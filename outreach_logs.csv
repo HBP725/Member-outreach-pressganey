@@ -1,0 +1,51 @@
+member_id,outreach_date,outreach_type,response
+M1000,2025-06-02,Phone Call,No Response
+M1001,2025-01-28,Email,Completed Screening
+M1002,2025-01-12,Phone Call,Completed Screening
+M1003,2025-04-26,Email,No Response
+M1004,2025-05-08,Phone Call,Scheduled Visit
+M1005,2025-05-11,Mailing,Completed Screening
+M1006,2025-03-12,Mailing,Completed Screening
+M1007,2025-06-12,Mailing,Completed Screening
+M1008,2025-04-03,Mailing,Completed Screening
+M1009,2025-05-08,Mailing,Completed Screening
+M1010,2025-04-11,Email,No Response
+M1011,2025-02-11,Phone Call,Scheduled Visit
+M1012,2025-03-10,Email,Scheduled Visit
+M1013,2025-06-16,Phone Call,Scheduled Visit
+M1014,2025-02-17,Mailing,Completed Screening
+M1015,2025-01-27,Email,Completed Screening
+M1016,2025-06-07,Mailing,Scheduled Visit
+M1017,2025-03-30,Mailing,Scheduled Visit
+M1018,2025-06-05,Mailing,Completed Screening
+M1019,2025-02-14,Mailing,Completed Screening
+M1020,2025-05-18,Email,No Response
+M1021,2025-06-02,Mailing,Scheduled Visit
+M1022,2025-01-02,Email,No Response
+M1023,2025-03-10,Mailing,No Response
+M1024,2025-05-12,Email,Scheduled Visit
+M1025,2025-02-22,Mailing,Completed Screening
+M1026,2025-03-04,Email,No Response
+M1027,2025-01-27,Email,Scheduled Visit
+M1028,2025-02-21,Mailing,Scheduled Visit
+M1029,2025-05-18,Phone Call,Completed Screening
+M1030,2025-06-13,Phone Call,No Response
+M1031,2025-04-10,Phone Call,No Response
+M1032,2025-01-21,Mailing,Scheduled Visit
+M1033,2025-03-26,Phone Call,Completed Screening
+M1034,2025-01-12,Mailing,No Response
+M1035,2025-04-28,Mailing,No Response
+M1036,2025-01-08,Mailing,No Response
+M1037,2025-01-31,Email,Scheduled Visit
+M1038,2025-05-09,Phone Call,No Response
+M1039,2025-06-07,Mailing,No Response
+M1040,2025-03-11,Mailing,Scheduled Visit
+M1041,2025-05-06,Phone Call,Scheduled Visit
+M1042,2025-04-10,Email,No Response
+M1043,2025-04-01,Phone Call,Scheduled Visit
+M1044,2025-04-05,Email,Completed Screening
+M1045,2025-05-06,Email,No Response
+M1046,2025-01-30,Email,Completed Screening
+M1047,2025-01-05,Mailing,Scheduled Visit
+M1048,2025-02-05,Phone Call,No Response
+M1049,2025-03-13,Phone Call,No Response
